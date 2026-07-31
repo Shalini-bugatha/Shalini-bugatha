@@ -29,7 +29,7 @@
 
 * Created and analyzed student database using SQL
 * Used SELECT, WHERE, GROUP BY, and aggregate functions
-  👉 https://github.com/your-username/sql-student-analysis
+  👉 https://github.com/shalini-bugatha/sql-student-analysis
 
 🔹 **Python Sales Analysis (Coming Soon)**
 
